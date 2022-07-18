@@ -62,7 +62,101 @@ in the array of structs.
 The run results will be as follows if you've written each function correctly:
 
 <pre>
+Word: computer
+Definition: a machine that can be programmed to carry out sequences of arithmetic and logical operations
+Sample Usage: Early computers were meant to be used only for calculations.
 
+Word: program
+Definition: a specific set of ordered operations for a computer to perform
+Sample Usage: My computer program uses structures.
+
+Word: sodium
+Definition: a soft, silver-white chemical element that is found in salt
+Sample Usage: Excess sodium draws more water into your blood stream, and this increases blood pressure.
+
+Word: final
+Definition: a test taken on a subject at the end of a course
+Sample Usage: I can't wait to show what I've learned in this course by taking the final.
+
+Word: cabbage
+Definition: a large, round vegetable with large green, white, or purple leaves that can be eaten cooked or uncooked
+Sample Usage: Cabbages with a dark color are good for you
+
+Word:
+Definition:
+Sample Usage:
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Word: computer
+Definition: a machine that can be programmed to carry out sequences of arithmetic and logical operations
+Sample Usage: Early computers were meant to be used only for calculations.
+
+Word: program
+Definition: a specific set of ordered operations for a computer to perform
+Sample Usage: My computer program uses structures.
+
+Word: final
+Definition: a test taken on a subject at the end of a course
+Sample Usage: I can't wait to show what I've learned in this course by taking the final.
+
+Word: cabbage
+Definition: a large, round vegetable with large green, white, or purple leaves that can be eaten cooked or uncooked
+Sample Usage: Cabbages with a dark color are good for you
+
+Word:
+Definition:
+Sample Usage:
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Word: program
+Definition: a specific set of ordered operations for a computer to perform
+Sample Usage: My computer program uses structures.
+
+Word: final
+Definition: a test taken on a subject at the end of a course
+Sample Usage: I can't wait to show what I've learned in this course by taking the final.
+
+Word: cabbage
+Definition: a large, round vegetable with large green, white, or purple leaves that can be eaten cooked or uncooked
+Sample Usage: Cabbages with a dark color are good for you
+
+Word:
+Definition:
+Sample Usage:
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Word: program
+Definition: a specific set of ordered operations for a computer to perform
+Sample Usage: My computer program uses structures.
+
+Word: final
+Definition: a test taken on a subject at the end of a course
+Sample Usage: I can't wait to show what I've learned in this course by taking the final.
+
+Word:
+Definition:
+Sample Usage:
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Word: program
+Definition: a specific set of ordered operations for a computer to perform
+Sample Usage: My computer program uses structures.
+
+Word: final
+Definition: a test taken on a subject at the end of a course
+Sample Usage: I can't wait to show what I've learned in this course by taking the final.
+
+Word:
+Definition:
+Sample Usage:
+
+
+C:\Users\djr1\source\repos\Lab12-Structs\x64\Debug\Structs.exe (process 9848) exited with code 0.
+Press any key to close this window . . .
 </pre>
     
 **To complete this assignment you must submit the following:**
