@@ -1,8 +1,8 @@
 //***********************************************************************
 // File name:			main.cpp
 // Author:				CS, Pacific University
-// Date:					11/30/21
-// Class:					CS150
+// Date:					
+// Class:					Intro to CS I
 // Assignment:		Lab13
 // Purpose:				To read a simple dictionary into an array of structs
 // Hours:
